@@ -38,4 +38,5 @@ Dit project beschrijft patronen, maar zoekt niet naar oorzaken
 Power BI Desktop · Power Query · DAX
 
 ## Bestanden
-*Volgt*
+- `stiptheid.pbix`: Power BI-bestand (te openen met Power BI Desktop, gratis)
+- `dashboard-trend.png`: screenshot van pagina 1
