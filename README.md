@@ -1,9 +1,6 @@
-# belgian-train-punctuality-powerbi
-Power BI-analyse van de stiptheid van Belgische treinen (Infrabel open data)
-
 # Stiptheid van Belgische treinen (2016–heden)
 
-*Screenshot volgt*
+![Dashboard pagina 1](dashboard-trend.png)
 
 ## Hoofdvraag
 Hoe evolueert de stiptheid van de Belgische reizigerstreinen doorheen de jaren?
