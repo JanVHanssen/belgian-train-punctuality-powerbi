@@ -42,6 +42,11 @@ Dit project beschrijft patronen, maar zoekt niet naar oorzaken
   november de minst stipte.
 - **Controle.** De berekende jaarcijfers voor 2023–2025 komen overeen met
   de cijfers die NMBS zelf publiceerde.
+- **Seizoenen.** Elk jaar opnieuw zijn juli en augustus de stipste maanden
+  (in alle 11 jaren boven het jaargemiddelde), oktober en november de minst
+  stipte (in alle 10 volledige jaren eronder).
+- **De herfstdip wordt kleiner.** In 2016 lag november 9,8 procentpunt onder
+  augustus, in 2025 nog 2,2 procentpunt.
 
 ## Conclusie
 Over de hele periode is de stiptheid licht verbeterd: +2,6 procentpunt
