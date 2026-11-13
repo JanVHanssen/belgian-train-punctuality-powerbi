@@ -1,6 +1,7 @@
 # Stiptheid van Belgische treinen (2016–heden)
 
 ![Dashboard pagina 1](dashboard-trend.png)
+(trend-seizoenen.png)
 
 ## Hoofdvraag
 Hoe evolueert de stiptheid van de Belgische reizigerstreinen doorheen de jaren?
